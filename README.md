@@ -69,4 +69,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com///blob/main/
 ### Authors
 
 - **Lynnxha** - _Noob Developer_ - [Lynnxha](https://github.com/Lynnxha) - \*\*
-- **ItzRyz** - _Fullstack Developer_ - [Lynnxha](https://github.com/ItzRyz) - \*\*
+- **ItzRyz** - _Fullstack Developer_ - [ItzRyz](https://github.com/ItzRyz) - \*\*
