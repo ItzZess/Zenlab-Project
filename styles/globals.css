@@ -1,0 +1,31 @@
+@tailwind base;
+:root {
+  --primary: #10b981;
+  --secondary: #ffffff;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--secondary) var(--primary);
+}
+
+*::-webkit-scrollbar {
+  width: 10px;
+}
+
+*::-webkit-scrollbar-track {
+  background: var(--primary);
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: var(--secondary);
+  border-radius: 15px;
+  border: 3px solid var(--primary);
+}
+
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-emerald-500;
+}
