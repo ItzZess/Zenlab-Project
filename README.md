@@ -70,3 +70,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com///blob/main/
 
 - **Lynnxha** - _Noob Developer_ - [Lynnxha](https://github.com/Lynnxha) - \*\*
 - **ItzRyz** - _Fullstack Developer_ - [ItzRyz](https://github.com/ItzRyz) - \*\*
+- **ItzZess** - _Newbie Developer_ - [ItzRyz](https://github.com/ItzZess) - \*\*
